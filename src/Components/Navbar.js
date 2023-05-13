@@ -16,8 +16,10 @@ const  Navbar = () => {
     <li className="list-none float-right"><a href="#" className="bg-green-500 hover:bg-green-600 font-bold py-2 px-4 rounded">Send Money</a></li>
 </nav>
 </header>
-<main class="container mx-auto py-8">
-    
+<main class="container mx-auto py-8 bg-sky-500">
+<h1 className="text-3xl mb-5">Compare and Send Money with Sendai</h1>
+      <h2 className="text-2xl mb-5">Find the best deal for you!</h2>
+      <a href="#" className="button bg-green-500 hover:bg-green-600 font-bold py-2 px-4 rounded text-white">Send Money</a>
     
   </main>
 </body>
