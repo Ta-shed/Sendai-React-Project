@@ -22,6 +22,7 @@ const  Navbar = () => {
       <a href="#" className="button bg-green-500 hover:bg-green-600 font-bold py-2 px-4 rounded text-white">Send Money</a>
     
   </main>
+  
   <footer className="h-20 bg-gray-800 text-white">
       <p>&copy; 2023 - Sendai</p>
     </footer>
