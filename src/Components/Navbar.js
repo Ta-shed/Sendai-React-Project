@@ -1,4 +1,4 @@
-
+import NewRequest from "./NewRequest";
 const  Navbar = () => {
     return (
         <div>
@@ -20,7 +20,7 @@ const  Navbar = () => {
 <h1 className="text-3xl mb-5">Compare and Send Money with Sendai</h1>
       <h2 className="text-2xl mb-5">Find the best deal for you!</h2>
       <a href="#" className="button bg-green-500 hover:bg-green-600 font-bold py-2 px-4 rounded text-white">Send Money</a>
-    
+   <NewRequest></NewRequest> 
   </main>
   
   <footer className="h-20 bg-gray-800 text-white">
